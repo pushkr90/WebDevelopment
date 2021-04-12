@@ -1,0 +1,30 @@
+#headcontent
+{
+    list-style-type: none;
+    background-color: rgb(71, 89, 255);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+ul
+{
+    list-style-type: none;
+    
+}
+li{
+    border: 1px solid black;
+    font-family: "sans-serif";
+    padding-right: 0px;
+    padding-left: 28px;
+    width: 75px;
+    border-radius: 5px;
+}
+li 
+{ 
+    background: rgb(0, 87, 128); 
+}
+li:nth-child(odd) 
+{
+     background: rgb(98, 0, 255); 
+}
